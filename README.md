@@ -1,6 +1,6 @@
 #Przykładowy tytuł
 
-Więcej o notacji [markdown]() opisałem właśnie tu!
+Więcej o notacji [markdown](/markdown.md) opisałem właśnie tu!
 
 Przykładowy projekt.
 Przykładowy link: [Gazeta](http://www.gazeta.pl/0,0.html)
