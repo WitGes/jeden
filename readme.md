@@ -18,7 +18,7 @@ Przykład w C:
 
 ```C
 int main(){
-  nie ma być 8
+  nie ma być 8 aj edna k
 }
 ```
 
