@@ -1,3 +1,9 @@
+#UWAGA wtorkowe spotkanie godzina 17.00
+
+Przypominam o hasach do OIG
+Pozdrowienia!
+
+
 #Przykładowy tytuł
 
 Więcej o notacji [markdown](/markdown.md) opisałem właśnie tu!
@@ -28,3 +34,5 @@ Przykład cytatu:
 > Phasellus consectetur volutpat est nec mollis. Phasellus tristique accumsan ipsum at tempus. Etiam vel mi ante. 
 > Nullam cursus sem interdum mauris accumsan bibendum. Maecenas in nunc ante. Aliquam eleifend elementum pretium. 
 > Vestibulum ut rutrum odio.
+
+Oto nowy zapis
