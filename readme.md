@@ -1,3 +1,9 @@
+#UWAGA wtorkowe spotkanie godzina 17.00
+
+Przypominam o hasach do OIG
+Pozdrowienia!
+
+
 #Przykładowy tytuł
 
 Więcej o notacji [markdown](/markdown.md) opisałem właśnie tu!
