@@ -1,6 +1,6 @@
 #UWAGA wtorkowe spotkanie godzina 17.00
 
-Przypominam o hasach do OIG
+Przypominam o hasłaach do OIG
 Pozdrowienia!
 
 
