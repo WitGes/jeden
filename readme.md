@@ -1,3 +1,9 @@
+#SORKI!
+
+Jutro podepne to co dzisiaj zrobillimy, każdemu z Was dodam plik o jego imieniu i tam bedziecie rozwijać swoje wersje. Ja stworz plik o swoim imieniu i tam bede rozwija swoja wersje.
+Pozdrówka i do zobaczenia - w sieci:-)
+
+
 #UWAGA wtorkowe spotkanie godzina 17.00
 
 Przypominam o hasłach do OIG
