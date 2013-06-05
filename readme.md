@@ -4,12 +4,6 @@ Jutro podepne to co dzisiaj zrobillimy, każdemu z Was dodam plik o jego imieniu
 Pozdrówka i do zobaczenia - w sieci:-)
 
 
-#UWAGA wtorkowe spotkanie godzina 17.00
-
-Przypominam o hasłach do OIG
-Pozdrowienia!
-
-
 #Przykładowy tytuł
 
 Więcej o notacji [markdown](/markdown.md) opisałem właśnie tu!
