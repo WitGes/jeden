@@ -1,31 +1,22 @@
 ```C++
 #include <iostream>
-#include <cstdlib>
-#include <time.h>
+#include "stdlib.h"
+#include "time.h"
 using namespace std;
 
 int main(){
-  int slowa=0, i=0, j=0, k=0, dlugslowa=0;
-	string slowo;
-	cin >> slowo;
-	string array[30];
-	srand (time(NULL));
-
-
-
-	/*for (i=0; i<slowa; i++)
-	{
-		cin >> array[i];
-	}*/
-	for (i = 0; i<30; i++)  {
-		dlugslowa = (rand() % 10 + 1);
-		for (j = 0; j<dlugslowa; i++){
-			k = (rand() % 65 + 57);
-			char k;
-			array[j][1] = k;
-			cout << array[j][1];
-		}
-	}
-	cin >> slowa;
+	int i=0, j=0, dlugslowa=0;
+	char k; 
+	string array[30000];
+	srand((unsigned)time(NULL));
+	for (i = 0; i<30000; i++)  {
+		dlugslowa = 4+rand()%8;
+        	for (j = 0; j<dlugslowa; j++){
+            		k = 97+rand()%25;
+            		array[j][1] = k;
+            		cout << array[j][1];
+            	}
+        cout << endl;
+    }
 }
 ```
