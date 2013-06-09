@@ -20,3 +20,7 @@ int main(){
     }
 }
 ```
+Formuła na rand():
+```C++
+int = dolnyzakres+rand() % górnyzakres-dolnyzakres+1;
+```
